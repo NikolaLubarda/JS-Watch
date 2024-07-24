@@ -1,3 +1,3 @@
-[JS-Watch](https://github.com/NikolaLubarda/JS-Watch.git)
+[JS-Watch](https://nikolalubarda.github.io/JS-Watch/))
 
 Standard JS watch.
